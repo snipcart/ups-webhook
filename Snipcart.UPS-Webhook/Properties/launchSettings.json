@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Snipcart.UPS_Webhook": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7063",
+      "launchBrowser": false
+    }
+  }
+}

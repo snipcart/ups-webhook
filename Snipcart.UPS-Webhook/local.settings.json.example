@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "Ups:ClientId": "YOUR_UPS_CLIENT_ID",
+        "Ups:ClientSecret": "YOUR_UPS_CLIENT_SECRET",
+        "Ups:AccountNumber": "YOUR_UPS_MERCHANT_ID",
+        "BusinessAddress:Address1": "228 Rue Saint-Joseph E",
+        "BusinessAddress:Address2": "",
+        "BusinessAddress:City": "Quebec",
+        "BusinessAddress:Province": "QC",
+        "BusinessAddress:PostalCode": "G1K 3A9",
+        "BusinessAddress:Country": "CA"
+    }
+}
